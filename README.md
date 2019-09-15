@@ -1,4 +1,8 @@
 # apiproject
 practice APIs project
 
-first : Sync Git repo
+0.0.0 [x] : Sync Git repo.
+1.0.0 []    : Create React Project in this app.
+
+
+
