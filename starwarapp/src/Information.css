@@ -1,0 +1,13 @@
+.information {
+    display: grid;
+    grid-template-rows: 800px;
+    grid-template-columns: 2fr 2fr;
+    grid-gap: 10px 10px;
+    justify-items: center;
+    align-items: center;
+    background-color: #eeeeee;
+}
+
+.card {
+    width: 20rem;
+}
